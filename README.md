@@ -1,5 +1,7 @@
 # RAT
-A Remote Access Trojan (RAT) builder I wrote, It's good to troll your friends, use it for educational purposes only!
+A Remote Access Trojan (RAT) builder I wrote, It's good to troll your friends.
+
+DISCLAIMER: Use it for educational purposes only!
 
 # Installation
  1. Download Java 11+. Most preferrably Java 15.
