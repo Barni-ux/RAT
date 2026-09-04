@@ -1,5 +1,5 @@
 # RAT
-A Remote Access Trojan (RAT) builder I wrote, It's good to troll your friends.
+A Remote Access Trojan (RAT) builder I made, It's good to troll your friends.
 
 DISCLAIMER: Use it for educational purposes only!
 
